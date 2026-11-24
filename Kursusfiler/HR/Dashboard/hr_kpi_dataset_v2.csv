@@ -1,0 +1,201 @@
+EmployeeID,Name,Gender,Age,Department,HireDate,TerminationDate,Salary,FTE,Manager,PerformanceRating,TrainingHours,SickDays,RecruitingSource,TenureMonths,IsBadHire,FirstYearTermination
+1001,Søren Haugaard,Mand,27,Operations,2021-11-13,,476161,0.75,William Møller,3,73,7,LinkedIn,52,No,No
+1002,Victor Schmidt,Mand,39,Sales,2022-08-11,,882954,0.5,Jens Rasmussen,5,29,4,Indeed,43,No,No
+1003,Julie Thomsen,Kvinde,35,Sales,2022-08-31,,648512,0.75,Jens Rasmussen,4,16,0,Referral,42,No,No
+1004,Kasper Møller,Mand,44,Finance,2017-07-13,,1012143,1.0,Jens Rasmussen,3,25,3,Indeed,105,No,No
+1005,Clara Mikkelsen,Kvinde,28,Sales,2023-02-04,2025-11-03,916202,0.5,Anna Jørgensen,5,7,2,LinkedIn,33,No,No
+1006,Anna Holm,Kvinde,41,Sales,2019-05-01,,551579,1.0,Jens Petersen,4,46,8,Indeed,83,No,No
+1007,Mathias Laursen,Mand,43,Sales,2024-11-27,,1002026,1.0,Jens Rasmussen,3,75,7,Indeed,15,No,No
+1008,Lars Jørgensen,Mand,31,HR,2024-02-07,,854471,1.0,Jens Rasmussen,4,71,0,LinkedIn,25,No,No
+1009,Thomas Brown,Mand,22,IT,2016-01-25,,679670,1.0,Jens Petersen,5,45,5,Talent Program,123,No,No
+1010,Magnus Rasmussen,Mand,43,HR,2019-06-06,,568967,0.75,Victor Hansen,3,67,8,Indeed,82,No,No
+1011,Henrik Vestergaard,Mand,29,Sales,2023-01-09,,733152,0.5,Emma Sørensen,3,32,6,Indeed,38,No,No
+1012,Søren Mikkelsen,Mand,33,Operations,2015-09-13,,444270,1.0,Lucas Andersen,3,0,3,Talent Program,127,No,No
+1013,Hassan Abdullah,Mand,62,Operations,2016-12-09,,893385,1.0,Jens Petersen,4,18,12,Indeed,112,No,No
+1014,Freja Olsen,Kvinde,21,Sales,2020-01-13,,1015755,1.0,Alexander Jensen,4,30,16,Indeed,74,No,No
+1015,Pernille Knudsen,Kvinde,26,Sales,2020-04-28,,497313,1.0,William Møller,4,79,1,Indeed,71,No,No
+1016,Rikke Thomsen,Kvinde,42,Sales,2021-11-02,2026-01-15,508768,0.75,Alexander Jensen,3,13,4,Jobindex,51,No,No
+1017,Henrik Olsen,Mand,40,Sales,2015-01-10,2018-05-20,596726,1.0,Emma Sørensen,4,52,11,Talent Program,40,No,No
+1018,Andreas Olsen,Mand,22,IT,2022-11-11,,920451,1.0,Victor Hansen,3,47,20,Indeed,40,No,No
+1019,Nora Iversen,Non-Binary,27,IT,2017-03-08,,369816,1.0,Jens Andersen,4,68,7,Talent Program,109,No,No
+1020,Maja Dahl,Kvinde,51,HR,2024-01-27,,664997,0.75,Lucas Andersen,3,61,5,Referral,25,No,No
+1021,Jack Walker,Mand,33,Finance,2024-02-05,2028-10-30,505989,1.0,Jens Andersen,4,65,7,Referral,57,No,No
+1022,Ibrahim Ali,Mand,35,Operations,2017-05-26,,971019,1.0,Jens Rasmussen,4,63,17,Indeed,106,No,No
+1023,Ida Bjerre,Kvinde,43,HR,2017-10-25,,1026926,0.5,Tobias Larsen,5,69,2,Talent Program,101,No,No
+1024,Jules Dubois,Mand,45,IT,2023-09-26,2028-10-23,556524,1.0,Lucas Andersen,5,62,21,Talent Program,61,No,No
+1025,Ida Hedegaard,Kvinde,37,Operations,2017-10-12,,937111,0.75,Jens Rasmussen,5,72,11,Talent Program,102,No,No
+1026,Rikke Johansen,Kvinde,45,Operations,2019-12-30,2024-02-03,501878,1.0,Lucas Andersen,3,32,2,Jobindex,49,No,No
+1027,Sara Bæk,Kvinde,35,Sales,2016-01-09,,1080880,1.0,Alexander Jensen,3,40,21,Referral,123,No,No
+1028,Jesper Thomsen,Mand,46,HR,2023-08-03,,876047,0.75,Victor Hansen,4,47,5,Talent Program,31,No,No
+1029,Thomas Smith,Mand,34,Sales,2021-01-02,2021-12-12,785165,1.0,Jens Petersen,4,12,1,Talent Program,11,Yes,Yes
+1030,Kasper Kristensen,Mand,26,Sales,2015-08-12,,483554,1.0,William Møller,3,72,22,Jobindex,128,No,No
+1031,Emma Sørensen,Kvinde,38,Finance,2018-06-16,,801282,1.0,Emma Møller,5,76,11,Jobindex,93,No,No
+1032,Sofie Vestergaard,Kvinde,44,Finance,2021-02-02,,443501,1.0,Lucas Andersen,4,30,1,Talent Program,61,No,No
+1033,Alma Larsen,Kvinde,29,Sales,2019-12-08,,614223,1.0,Jens Petersen,3,74,5,LinkedIn,75,No,No
+1034,Sofie Vestergaard,Kvinde,29,Sales,2017-05-02,,409676,1.0,Victor Hansen,5,67,16,Talent Program,107,No,No
+1035,Niels Møller,Mand,36,Finance,2024-03-07,,1091804,1.0,Jens Rasmussen,4,3,2,Talent Program,24,No,No
+1036,Sebastian Vestergaard,Mand,38,IT,2015-03-04,,523532,0.75,Anna Jørgensen,4,18,1,Jobindex,133,No,No
+1037,Jonas Weber,Mand,34,Finance,2018-05-25,,964685,1.0,Jens Petersen,5,69,22,Jobindex,94,No,No
+1038,Rikke Møller,Kvinde,33,HR,2022-11-14,,947135,0.75,Jens Petersen,4,12,19,Talent Program,40,No,No
+1039,Julie Schmidt,Kvinde,39,Sales,2022-10-13,,967895,1.0,Jens Petersen,3,22,7,Talent Program,41,No,No
+1040,Thomas Jørgensen,Mand,56,Operations,2016-11-19,,570178,1.0,Anna Jørgensen,4,74,21,Talent Program,113,No,No
+1041,Henrik Hedegaard,Mand,47,HR,2019-01-24,,499521,0.5,Emma Sørensen,3,0,11,Jobindex,86,No,No
+1042,Søren Knudsen,Mand,43,Operations,2019-06-22,,776752,1.0,William Møller,5,53,3,Talent Program,81,No,No
+1043,Laura Olsen,Kvinde,55,Operations,2020-11-22,,938365,1.0,Emma Sørensen,5,70,4,Talent Program,64,No,No
+1044,Anna Berg,Kvinde,41,IT,2023-09-06,,1053662,0.75,Emma Møller,4,14,12,Indeed,30,No,No
+1045,Jonas Schmidt,Mand,22,Operations,2016-05-25,,607009,1.0,Victor Hansen,3,64,14,LinkedIn,118,No,No
+1046,Thomas Petersen,Mand,52,HR,2016-01-20,,487717,1.0,Emma Møller,4,75,24,Referral,123,No,No
+1047,Tobias Hedegaard,Mand,40,Operations,2016-02-09,,731915,0.5,Jens Andersen,4,70,22,LinkedIn,122,No,No
+1048,William Vestergaard,Mand,40,Sales,2022-11-10,2024-02-29,912288,1.0,Alexander Jensen,5,14,15,Indeed,15,No,No
+1049,Emil Simonsen,Mand,23,Operations,2016-06-01,,901025,0.75,Lucas Andersen,4,20,9,Referral,118,No,No
+1050,Jonas Müller,Non-Binary,31,HR,2016-04-20,,650709,1.0,Emma Sørensen,4,18,24,Talent Program,120,No,No
+1051,Noah Poulsen,Non-Binary,31,IT,2020-06-23,,536240,1.0,Anna Jørgensen,4,59,22,Indeed,69,No,No
+1052,Ane Heilmann,Kvinde,18,Sales,2022-07-19,,926775,1.0,Alexander Jensen,3,32,15,Talent Program,44,No,No
+1053,Mads Laursen,Mand,39,Sales,2019-07-27,,624486,1.0,Anna Jørgensen,4,48,11,Jobindex,80,No,No
+1054,Amelia Taylor,Kvinde,44,Operations,2020-03-08,,652950,1.0,Emma Møller,4,34,16,Indeed,72,No,No
+1055,Maja Christensen,Kvinde,32,Sales,2022-09-19,,660914,1.0,Jens Andersen,4,43,15,Jobindex,42,No,No
+1056,Freja Krogh,Kvinde,50,Operations,2018-12-31,2020-03-17,428623,1.0,William Møller,4,10,11,Indeed,14,No,No
+1057,Emil Nørgaard,Mand,33,IT,2023-06-22,2024-08-23,715321,1.0,Sofie Petersen,3,71,7,Indeed,14,No,No
+1058,Tobias Holm,Mand,43,HR,2023-05-03,,533675,0.5,Lucas Andersen,3,77,19,Jobindex,34,No,No
+1059,Oliver Møller,Mand,42,Sales,2024-12-15,2029-03-09,1087334,1.0,Tobias Larsen,4,73,2,Referral,51,No,No
+1060,Louis Martin,Mand,35,IT,2022-06-17,,980235,0.75,Alexander Jensen,5,65,15,LinkedIn,45,No,No
+1061,Jonas Kristensen,Mand,34,HR,2016-12-14,,1002465,0.75,William Møller,3,45,12,Talent Program,112,No,No
+1062,Mikkel Sørensen,Mand,41,IT,2024-08-30,2025-07-13,566454,0.5,Anna Jørgensen,4,8,22,Indeed,10,Yes,Yes
+1063,Benjamin Olsen,Mand,22,Sales,2015-03-24,,459575,1.0,Jens Rasmussen,3,2,18,Talent Program,133,No,No
+1064,Kuno Berthelsen,Mand,39,HR,2018-03-14,,557606,1.0,Jens Rasmussen,3,25,7,Jobindex,97,No,No
+1065,Karoline Lund,Kvinde,41,IT,2023-08-23,,855815,1.0,Alexander Jensen,5,71,21,Talent Program,30,No,No
+1066,Ida Nielsen,Kvinde,29,Sales,2023-08-16,,642822,0.5,Lucas Andersen,3,47,4,Jobindex,31,No,No
+1067,Clara Møller,Kvinde,30,HR,2021-11-09,,426218,1.0,Lucas Andersen,4,65,19,Talent Program,52,No,No
+1068,Jesper Bjerre,Mand,39,IT,2020-03-16,,937518,1.0,Tobias Larsen,5,69,7,LinkedIn,72,No,No
+1069,Freja Bæk,Kvinde,25,Sales,2020-08-10,,686199,1.0,Anna Jørgensen,3,27,23,LinkedIn,67,No,No
+1070,Julie Schmidt,Kvinde,36,HR,2015-02-20,,799589,1.0,Victor Hansen,5,25,11,LinkedIn,134,No,No
+1071,Kasper Dahl,Mand,46,IT,2016-11-15,,1036840,1.0,Tobias Larsen,5,24,0,LinkedIn,113,No,No
+1072,Emily Brown,Kvinde,49,Operations,2016-12-17,,828446,1.0,Emma Sørensen,3,11,24,LinkedIn,112,No,No
+1073,Jens Mortensen,Non-Binary,29,Sales,2019-01-09,,812052,1.0,William Møller,3,4,20,LinkedIn,87,No,No
+1074,Sara Madsen,Kvinde,26,Sales,2016-03-24,,684402,0.75,Tobias Larsen,3,47,19,Jobindex,121,No,No
+1075,Oliver Jørgensen,Mand,36,IT,2017-05-30,,389986,0.5,Tobias Larsen,3,36,5,Indeed,106,No,No
+1076,Alexander Møller,Mand,41,Sales,2016-05-02,2017-02-15,1029520,1.0,Anna Jørgensen,4,78,21,Talent Program,9,Yes,Yes
+1077,Lærke Jørgensen,Kvinde,59,Operations,2019-12-29,,697739,0.5,Alexander Jensen,3,43,17,LinkedIn,75,No,No
+1078,Sofie Nørgaard,Kvinde,33,Sales,2020-09-12,2021-08-16,975646,1.0,Jens Petersen,3,14,7,Jobindex,11,Yes,Yes
+1079,Jonas Krogh,Mand,37,IT,2024-05-12,,822327,1.0,Tobias Larsen,5,42,6,Jobindex,22,No,No
+1080,Sofie Skov,Kvinde,33,Operations,2020-11-12,,677073,1.0,Victor Hansen,3,47,0,Jobindex,64,No,No
+1081,Line Pedersen,Kvinde,32,Finance,2023-08-10,,947794,1.0,Victor Hansen,3,69,20,Indeed,31,No,No
+1082,Mariam Ali,Kvinde,46,HR,2019-04-24,,384911,1.0,Anna Jørgensen,2,45,15,Talent Program,83,Yes,No
+1083,Christian Johansen,Mand,31,IT,2021-01-10,,775037,1.0,Lucas Andersen,4,42,11,Indeed,62,No,No
+1084,James Evans,Mand,50,Operations,2015-09-07,,1080399,1.0,Sofie Petersen,4,20,5,Referral,127,No,No
+1085,Aputsiaq Motzfeldt,Mand,30,IT,2016-11-04,,958746,1.0,Victor Hansen,5,22,19,Jobindex,113,No,No
+1086,Sebastian Lund,Mand,33,IT,2016-03-13,,362175,1.0,Victor Hansen,5,79,1,Referral,121,No,No
+1087,Jesper Larsen,Mand,54,Operations,2020-12-05,,666915,1.0,Anna Jørgensen,5,46,13,LinkedIn,63,No,No
+1088,Julie Haugaard,Kvinde,41,Operations,2017-02-09,2021-05-01,849876,1.0,Emma Sørensen,3,14,3,LinkedIn,51,No,No
+1089,Laura Nørgaard,Kvinde,29,Finance,2024-03-31,,995588,1.0,Jens Andersen,4,24,0,Indeed,23,No,No
+1090,Tobias Olsen,Mand,29,Operations,2015-09-25,,961213,1.0,Tobias Larsen,3,35,22,Talent Program,127,No,No
+1091,Lucas Laursen,Mand,41,Sales,2020-06-07,,416358,1.0,Tobias Larsen,3,74,17,Referral,69,No,No
+1092,Nora Dahl,Kvinde,33,IT,2017-12-13,,760543,1.0,Sofie Petersen,2,50,12,Talent Program,100,Yes,No
+1093,Lukas Weber,Mand,44,Sales,2015-08-24,,397057,1.0,Lucas Andersen,4,14,1,Indeed,128,No,No
+1094,Anna Petersen,Kvinde,32,Finance,2016-01-24,,618294,0.75,Jens Andersen,4,67,8,LinkedIn,123,No,No
+1095,Nora Petersen,Kvinde,38,HR,2023-04-26,,604726,0.75,Jens Rasmussen,5,20,20,Talent Program,34,No,No
+1096,Thomas Pedersen,Mand,40,Sales,2017-02-01,,628176,1.0,Sofie Petersen,4,12,1,Talent Program,110,No,No
+1097,Nanna Haugaard,Kvinde,28,HR,2020-01-23,,876486,0.75,Jens Petersen,3,18,24,LinkedIn,74,No,No
+1098,Jonas Dahl,Mand,30,IT,2021-09-14,2023-04-12,1058754,0.75,Emma Møller,4,33,8,Referral,19,No,No
+1099,Mikkel Iversen,Mand,46,HR,2016-09-15,,517292,0.75,Jens Rasmussen,4,77,0,LinkedIn,115,No,No
+1100,Mads Knudsen,Mand,37,IT,2022-09-15,,494931,0.5,Lucas Andersen,4,67,10,Talent Program,42,No,No
+1101,Sebastian Lund,Mand,29,Sales,2024-03-28,,793676,0.5,Emma Sørensen,3,51,2,Referral,23,No,No
+1102,Nicolai Knudsen,Mand,26,HR,2023-02-14,,512491,1.0,Jens Rasmussen,4,26,19,Referral,37,No,No
+1103,Clara Bæk,Kvinde,37,Sales,2023-12-23,,731009,1.0,Alexander Jensen,4,28,22,LinkedIn,26,No,No
+1104,Mads Simonsen,Mand,38,Sales,2018-06-06,2022-09-25,751921,1.0,Sofie Petersen,2,27,3,Talent Program,52,Yes,No
+1105,Lærke Jensen,Kvinde,30,HR,2022-12-10,2025-11-16,610910,1.0,Sofie Petersen,3,34,17,Indeed,35,No,No
+1106,Sofie Thomsen,Kvinde,41,HR,2016-07-31,,373236,0.75,Anna Jørgensen,3,7,22,Talent Program,116,No,No
+1107,Nicolai Pedersen,Mand,57,Operations,2020-10-23,,437955,1.0,Anna Jørgensen,4,15,5,Jobindex,65,No,No
+1108,Julie Petersen,Kvinde,30,HR,2016-03-10,,1090874,1.0,Tobias Larsen,5,35,2,Indeed,121,No,No
+1109,Lærke Kjær,Non-Binary,39,Sales,2020-11-20,,977433,0.5,Lucas Andersen,3,29,21,Referral,64,No,No
+1110,Clara Poulsen,Kvinde,36,HR,2024-07-25,,1020718,1.0,Anna Jørgensen,4,17,10,Indeed,19,No,No
+1111,Andreas Mikkelsen,Mand,53,Operations,2017-02-02,,580785,1.0,Jens Rasmussen,4,1,14,Referral,110,No,No
+1112,Freja Hansen,Kvinde,32,Operations,2022-08-17,,444914,1.0,Emma Sørensen,4,48,21,Referral,43,No,No
+1113,Jesper Kristensen,Mand,44,Finance,2022-10-24,,557990,1.0,William Møller,3,76,4,Indeed,40,No,No
+1114,Chloé Robert,Kvinde,46,Sales,2018-08-22,,728387,1.0,Emma Sørensen,4,3,19,Referral,91,No,No
+1115,Sofie Schmidt,Kvinde,52,Operations,2020-11-15,,888884,0.75,Emma Sørensen,4,74,9,Referral,64,No,No
+1116,Julie Bjerre,Kvinde,28,IT,2022-10-16,,1006639,1.0,Alexander Jensen,4,6,11,Jobindex,41,No,No
+1117,Andreas Dahl,Mand,39,Operations,2018-09-20,,544269,0.75,Sofie Petersen,3,73,14,Talent Program,90,No,No
+1118,Ibrahim Rahman,Mand,21,Sales,2022-12-16,,742417,1.0,Jens Petersen,3,38,16,Talent Program,39,No,No
+1119,Laura Madsen,Kvinde,25,Sales,2021-10-18,,488155,1.0,Alexander Jensen,5,12,9,Jobindex,53,No,No
+1120,Noah Bæk,Mand,25,IT,2016-03-22,,470674,1.0,Emma Møller,4,30,5,Indeed,121,No,No
+1121,Hassan Farouk,Mand,36,Sales,2020-07-10,,606713,1.0,Alexander Jensen,5,70,17,LinkedIn,68,No,No
+1122,Magnus Vestergaard,Mand,38,Operations,2018-08-24,,791501,0.75,Lucas Andersen,3,62,12,LinkedIn,91,No,No
+1123,Benjamin Nielsen,Mand,38,Sales,2015-09-06,,893351,0.75,Jens Andersen,5,55,2,LinkedIn,127,No,No
+1124,Alma Møller,Kvinde,33,Finance,2015-06-15,,417642,0.75,Jens Rasmussen,4,41,23,Jobindex,130,No,No
+1125,Peter Hansen,Mand,19,IT,2024-09-22,,440093,0.75,Alexander Jensen,4,60,9,Jobindex,17,No,No
+1126,Kasper Skov,Mand,30,HR,2023-04-20,2024-02-17,857606,1.0,Lucas Andersen,4,41,13,Referral,10,Yes,Yes
+1127,Tobias Dahl,Mand,53,Operations,2018-09-20,,567215,1.0,Victor Hansen,3,55,5,LinkedIn,90,No,No
+1128,Clara Lund,Kvinde,34,Sales,2017-10-16,2022-11-28,1057280,0.5,Alexander Jensen,3,35,2,Indeed,62,No,No
+1129,Lars Skov,Mand,50,Sales,2016-06-25,,1033889,1.0,Victor Hansen,3,67,15,Indeed,117,No,No
+1130,Jens Bæk,Mand,42,Sales,2017-01-28,,385954,1.0,Jens Petersen,5,6,6,LinkedIn,110,No,No
+1131,Anna Dahl,Kvinde,40,Sales,2023-09-13,,377856,1.0,Sofie Petersen,4,53,19,LinkedIn,30,No,No
+1132,Laura Petersen,Kvinde,33,Sales,2024-12-13,,876861,1.0,Victor Hansen,3,0,13,LinkedIn,14,No,No
+1133,Lukas Schneider,Mand,53,Operations,2020-10-29,,909655,0.75,Emma Møller,5,43,8,Jobindex,65,No,No
+1134,Aputsiaq Lynge,Mand,37,Sales,2020-12-20,,845553,1.0,Sofie Petersen,3,44,14,Jobindex,63,No,No
+1135,Niels Hedegaard,Non-Binary,20,IT,2017-03-07,,672918,1.0,Victor Hansen,4,46,20,Jobindex,109,No,No
+1136,Malik Frederiksen,Mand,32,IT,2023-01-26,,373752,1.0,Victor Hansen,4,12,2,Talent Program,37,No,No
+1137,Emil Olsen,Mand,31,IT,2015-05-18,,498757,0.75,Jens Petersen,4,21,1,Indeed,131,No,No
+1138,Christian Larsen,Mand,41,Operations,2021-02-09,,663837,1.0,Victor Hansen,3,20,1,Indeed,61,No,No
+1139,Karoline Thomsen,Kvinde,36,Finance,2024-07-04,,466739,0.75,Tobias Larsen,5,8,2,Referral,20,No,No
+1140,Katrine Lund,Kvinde,30,Operations,2018-09-15,,588009,0.75,Jens Rasmussen,4,25,17,Jobindex,90,No,No
+1141,Henrik Andersen,Mand,20,IT,2022-10-03,2023-11-02,557980,1.0,Jens Andersen,4,8,13,Talent Program,13,No,No
+1142,Peter Nørgaard,Mand,38,Finance,2024-10-19,,606609,1.0,Anna Jørgensen,4,14,19,Talent Program,16,No,No
+1143,Magnus Larsen,Mand,40,Sales,2020-02-19,,738822,1.0,Jens Andersen,3,9,17,Indeed,73,No,No
+1144,Line Dahl,Kvinde,20,Sales,2023-04-20,,686676,0.5,William Møller,3,41,9,Jobindex,34,No,No
+1145,Niels Mortensen,Mand,34,Operations,2015-03-10,,694138,1.0,Lucas Andersen,3,71,24,Referral,133,No,No
+1146,Lærke Simonsen,Kvinde,51,Operations,2022-02-06,,668277,0.75,Jens Petersen,5,23,1,Jobindex,49,No,No
+1147,Sara Kristensen,Kvinde,38,Sales,2020-10-01,2021-12-02,868271,0.75,Jens Petersen,2,79,24,LinkedIn,14,Yes,No
+1148,Martin Madsen,Mand,38,Sales,2019-01-13,,673412,1.0,Victor Hansen,5,48,21,Jobindex,86,No,No
+1149,Jonas Christensen,Mand,38,HR,2015-07-24,,835417,1.0,Emma Sørensen,5,25,0,LinkedIn,129,No,No
+1150,Line Haugaard,Kvinde,38,Finance,2020-12-13,,781459,1.0,Tobias Larsen,5,36,3,LinkedIn,63,No,No
+1151,Mathias Simonsen,Mand,37,HR,2015-02-12,,538456,1.0,Tobias Larsen,4,67,13,Referral,134,No,No
+1152,Sara Skov,Kvinde,43,Sales,2020-03-21,,905941,1.0,Jens Petersen,5,49,0,Indeed,72,No,No
+1153,Camilla Bæk,Kvinde,44,Sales,2020-11-28,,507729,1.0,Tobias Larsen,3,23,13,Jobindex,64,No,No
+1154,Sara Holm,Kvinde,38,Operations,2017-01-30,,578504,0.5,Lucas Andersen,3,18,15,LinkedIn,110,No,No
+1155,Freja Skov,Kvinde,33,Sales,2023-11-29,2026-03-04,996117,1.0,Victor Hansen,4,59,21,Jobindex,27,No,No
+1156,Alma Skov,Kvinde,38,Sales,2022-12-05,,1002665,1.0,Victor Hansen,4,38,13,Indeed,39,No,No
+1157,Noah Berg,Mand,46,Operations,2020-11-12,,875910,0.75,Sofie Petersen,4,73,19,Indeed,64,No,No
+1158,Clara Skov,Kvinde,37,Finance,2020-06-17,,923044,1.0,Jens Andersen,3,17,2,Talent Program,69,No,No
+1159,Noah Madsen,Mand,37,Sales,2024-06-07,,390809,1.0,Emma Møller,4,18,2,Indeed,21,No,No
+1160,Andreas Krogh,Mand,34,Sales,2020-04-19,,891013,0.5,Jens Petersen,4,35,8,Referral,71,No,No
+1161,Henrik Poulsen,Non-Binary,39,Sales,2024-10-31,,1066756,0.75,Emma Sørensen,3,73,5,LinkedIn,16,No,No
+1162,Leila Saleh,Kvinde,31,Operations,2017-06-18,,401226,1.0,Emma Møller,4,54,24,Talent Program,106,No,No
+1163,Mikkel Olsen,Mand,50,Operations,2015-12-26,,849512,0.5,Emma Sørensen,4,68,12,Referral,124,No,No
+1164,Lærke Knudsen,Kvinde,42,Sales,2023-01-26,,955470,1.0,Anna Jørgensen,4,46,20,Jobindex,37,No,No
+1165,Jonas Skov,Mand,55,Operations,2019-09-16,,825781,1.0,Jens Rasmussen,4,48,1,LinkedIn,78,No,No
+1166,Finn Wagner,Mand,36,IT,2015-10-08,,379402,1.0,Victor Hansen,3,32,7,Indeed,126,No,No
+1167,Ida Laursen,Kvinde,38,Sales,2023-12-11,,354263,1.0,Emma Møller,5,20,20,LinkedIn,27,No,No
+1168,Peter Bjerre,Mand,30,Sales,2020-03-02,,527900,1.0,Lucas Andersen,3,21,1,Jobindex,73,No,No
+1169,Mads Olsen,Mand,38,Finance,2023-12-11,,922212,1.0,Sofie Petersen,4,47,3,Talent Program,27,No,No
+1170,Lucas Robert,Mand,48,IT,2016-10-28,2019-08-21,686326,1.0,Anna Jørgensen,4,36,24,Talent Program,34,No,No
+1171,Sofie Berg,Kvinde,33,Finance,2015-04-03,,574137,1.0,Anna Jørgensen,3,14,14,Talent Program,132,No,No
+1172,Julie Laursen,Kvinde,51,HR,2016-11-02,2020-02-22,802268,0.75,Victor Hansen,3,34,3,Indeed,40,No,No
+1173,Nora Christiansen,Kvinde,33,Finance,2020-05-23,,647881,1.0,Tobias Larsen,3,70,12,Referral,70,No,No
+1174,Victor Pedersen,Mand,45,Operations,2015-03-02,,713476,1.0,Tobias Larsen,4,31,11,Referral,133,No,No
+1175,Niels Nørgaard,Mand,24,Finance,2022-05-05,,701707,1.0,William Møller,5,10,12,LinkedIn,46,No,No
+1176,Kasper Knudsen,Mand,24,IT,2023-07-20,,1034733,1.0,Tobias Larsen,3,9,13,Indeed,31,No,No
+1177,Victor Sørensen,Mand,38,IT,2024-07-06,,860585,1.0,Emma Sørensen,5,72,19,Talent Program,20,No,No
+1178,Noah Dahl,Mand,38,Finance,2017-10-25,,1041757,1.0,Emma Sørensen,4,77,17,Talent Program,101,No,No
+1179,Noor Ali,Kvinde,35,Sales,2019-01-29,,740719,1.0,Tobias Larsen,4,76,5,Jobindex,86,No,No
+1180,Mathias Laursen,Mand,26,Sales,2016-08-26,,829361,1.0,Sofie Petersen,4,56,10,Jobindex,115,No,No
+1181,Maja Krogh,Kvinde,52,Operations,2016-11-12,,451371,1.0,Victor Hansen,3,24,1,Talent Program,113,No,No
+1182,Camilla Kristensen,Kvinde,30,Sales,2022-01-25,,912997,1.0,Alexander Jensen,4,1,22,Talent Program,49,No,No
+1183,Emil Hansen,Mand,30,Operations,2018-11-29,,542192,1.0,Anna Jørgensen,4,63,18,Indeed,88,No,No
+1184,Jesper Olsen,Mand,53,HR,2022-11-25,2027-05-11,500322,0.75,Anna Jørgensen,3,34,18,Referral,54,No,No
+1185,Jesper Thomsen,Mand,34,IT,2024-10-24,,371172,1.0,Emma Sørensen,5,6,4,Jobindex,16,No,No
+1186,Lucas Leroy,Mand,53,IT,2022-05-16,,885843,1.0,Jens Petersen,4,17,18,Referral,46,No,No
+1187,Lars Dahl,Mand,34,Operations,2021-03-30,,927564,0.5,William Møller,4,66,1,Indeed,59,No,No
+1188,Line Schmidt,Kvinde,34,HR,2016-06-07,,931780,1.0,Emma Møller,2,41,9,Talent Program,118,Yes,No
+1189,Rasmus Laursen,Non-Binary,42,Operations,2021-07-21,,1058362,0.75,Victor Hansen,4,38,24,Referral,56,No,No
+1190,Jonas Christensen,Mand,34,Sales,2023-07-15,,863319,1.0,Jens Rasmussen,5,40,1,Talent Program,32,No,No
+1191,Thomas Wright,Mand,48,Operations,2022-02-06,,572320,1.0,Jens Rasmussen,3,74,10,Talent Program,49,No,No
+1192,Tobias Kristensen,Mand,37,Operations,2020-05-22,,767978,0.75,Lucas Andersen,5,23,17,LinkedIn,70,No,No
+1193,Emma Christensen,Kvinde,35,HR,2018-01-06,,361046,1.0,Alexander Jensen,4,59,23,Referral,99,No,No
+1194,Manon Petit,Kvinde,56,Operations,2019-10-20,,578071,1.0,Victor Hansen,3,45,14,Referral,77,No,No
+1195,Nicolai Skov,Mand,32,IT,2020-01-11,,728165,1.0,William Møller,4,18,8,Talent Program,74,No,No
+1196,Rikke Dahl,Kvinde,30,Sales,2023-08-11,,1058662,0.5,Emma Sørensen,4,67,22,Indeed,31,No,No
+1197,Andreas Haugaard,Mand,38,Operations,2022-10-12,2023-12-29,766366,0.75,Alexander Jensen,3,41,18,LinkedIn,14,No,No
+1198,Clara Simonsen,Kvinde,23,IT,2021-04-15,,616997,1.0,Alexander Jensen,4,31,8,Talent Program,59,No,No
+1199,Kasper Møller,Mand,37,Operations,2020-09-25,,995188,1.0,Alexander Jensen,4,38,2,Jobindex,66,No,No
+1200,Emma Sørensen,Kvinde,30,IT,2018-02-18,,832615,1.0,Jens Rasmussen,3,35,20,Jobindex,97,No,No

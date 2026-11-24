@@ -1,0 +1,114 @@
+=======================================
+Headcount =
+CALCULATE (
+    COUNTROWS ( HR ),
+    HR[Termination Date] = BLANK ()
+)
+
+=======================================
+Terminated =
+CALCULATE (
+    COUNTROWS ( HR ),
+    HR[Termination Date] <> BLANK ()
+)
+
+=======================================
+Turnover Rate =
+DIVIDE (
+    [Terminated],
+    [Headcount]
+)
+
+=======================================
+Retention Rate =
+1 - [Turnover Rate]
+
+=======================================
+Average Salary (Active Employees) =
+CALCULATE (
+    [Average Salary (All)],
+    HR[Employee Status] = "Active"
+)
+
+=======================================
+Average Salary (All) =
+AVERAGE ( HR[Salary] )
+
+=======================================
+Bad Hires (All) =
+CALCULATE (
+    COUNTROWS ( HR ),
+    HR[Is Bad Hire] = "Yes"
+)
+
+=======================================
+Bad Hires (Active Employees) =
+CALCULATE (
+    [Bad Hires (All)],
+    HR[Employee Status] = "Active"
+)
+
+=======================================
+Bad Hire Rate =
+DIVIDE (
+    [Bad Hires (All)],
+    [Headcount]
+)
+
+=======================================
+Early Attrition =
+CALCULATE (
+    COUNTROWS ( HR ),
+    HR[First Year Termination] = "Yes"
+)
+
+=======================================
+Early Attrition Rate=
+DIVIDE (
+    [Early Attrition],
+    [Headcount]
+)
+
+=======================================
+Average Tenure (Months) =
+AVERAGE ( HR[Tenure Months] )
+
+=======================================
+Headcount over time =
+CALCULATE (
+    [Headcount],
+    FILTER (
+        ALLSELECTED ( 'Calendar'[Date] ),
+        ISONORAFTER (
+            'Calendar'[Date], MAX ( 'Calendar'[Date] ), DESC
+        )
+    )
+)
+
+=======================================
+Absence Days =
+CALCULATE (
+    SUM ( HR[Sick Days] ),
+    HR[Employee Status] = "Active"
+)
+
+=======================================
+Absence Rate =
+DIVIDE (
+    [Absence Days],
+    [Headcount] * 220 -- Antal arbejdsdage på et år
+)
+
+=======================================
+FTE Sum =
+CALCULATE (
+    SUM ( HR[FTE] ),
+    HR[Employee Status] = "Active"
+)
+
+=======================================
+Absence per FTE =
+DIVIDE (
+    [Absence Days],
+    [FTE Sum]
+)
